@@ -1,3 +1,3 @@
 #!/bin/sh
 
-apt-get uninstall nginx
+apt-get -y uninstall nginx
